@@ -4,6 +4,7 @@ This repository contains various implementations of data structures and algorith
 
 ## Author Details
 - **Name:** Tamojit Roy
+- **Enrollment No.:** A91005223132
 - **Stream:** B.Tech Computer Science and Engineering (Section D)
 - **Semester:** 6th Semester
 - **Batch:** 2023-2027
